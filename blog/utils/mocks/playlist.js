@@ -49,3 +49,4 @@ const playlistMocks = [
     uri: 'spotify:playlist:5e5Fa2lafG1D3MN7CHy8FR'
   }
 ]
+module.exports = playlistMocks
